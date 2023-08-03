@@ -14,7 +14,7 @@ In this lab, we are going to setup the spring4shell vulnerable application by ta
 Resources below have already been set up for you as part of the lab setup.
 
 * One Virtual Network with three subnets. 
-* Two Virtual Machines (Kali EC2 Instance, Ubuntu EC2 Instance).
+* Two Virtual Machines (Kali Virtual Machine, Ubuntu Virtual Machine).
 
 ## Scenario Starts
 
